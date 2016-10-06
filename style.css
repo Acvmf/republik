@@ -1,0 +1,42 @@
+#mainpic{
+  background-image: url("front-21.jpg");
+  width: inherit;
+  height: 485px;
+  align-self: center;
+}
+
+#footer{
+  background-color: #dddddd;
+  float: none;
+}
+
+#space1{
+  float: left
+}
+
+#footer1{
+  color: black;
+  float: left;
+}
+
+#space2{
+  float: left
+}
+
+#footer2{
+  color: black;
+  float: left;
+}
+
+#space3{
+  float: left
+}
+
+#footer3{
+  color: black;
+  float: right;
+}
+
+#space4{
+  float: left
+}
